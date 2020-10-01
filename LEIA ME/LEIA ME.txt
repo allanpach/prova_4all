@@ -1,0 +1,3 @@
+Importante:
+Caso os drivers não estiver mapeados, favor mapear os mesmo nas variáveis do sistemas.
+Pasta dirver está na rais do projeto.
